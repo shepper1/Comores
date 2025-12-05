@@ -1,0 +1,365 @@
+{
+  "pays": "Comores",
+  "drapeau": "🇰🇲",
+  "symbole": "🌙",
+  "titre": "Comores : L'Archipel aux Parfums et aux Mystères",
+  "budget_total": "2850€",
+  "duree": "12 jours",
+  "temps_vol": "10h - 12h (avec escale)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en Grande Comore : Douce immersion",
+      "legende": "Après un long voyage, la première journée est dédiée à une prise de contact en douceur avec l'île de la Grande Comore. Profitez de l'ambiance paisible de Moroni, la capitale, et laissez-vous imprégner par les premières saveurs et couleurs locales. Une balade tranquille permettra de se dégourdir les jambes et de se familiariser avec l'environnement.",
+      "lieu": "Moroni, Grande Comore",
+      "activites": [
+        "🛬 <strong>Arrivée à l'Aéroport International Prince Saïd Ibrahim (Hahaya)</strong>: Accueil par votre transport et transfert vers votre hébergement à Moroni. Prenez le temps de vous installer et de vous rafraîchir après le vol.",
+        "🚶‍♂️ <strong>Balade décontractée dans le centre de Moroni</strong>: Promenez-vous dans les rues animées, observez l'architecture locale et les habitants, et imprégnez-vous de l'atmosphère de la capitale comorienne."
+      ],
+      "illustration": "jour1_moroni.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Formalités d'entrée",
+          "texte": "Un visa est nécessaire pour les Comores. Il peut être obtenu à l'arrivée à l'aéroport de Moroni (environ 50€). Prévoyez de l'argent liquide et un stylo pour remplir les formulaires."
+        },
+        {
+          "symbole": "🚕",
+          "titre": "Transport depuis l'aéroport",
+          "texte": "Les taxis sont le moyen le plus courant pour se rendre de l'aéroport à Moroni. Négociez le prix avant de monter (environ 10-15€)."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🕌",
+      "titre": "Trésors de Moroni et saveurs locales",
+      "legende": "Cette journée est consacrée à l'exploration approfondie de Moroni, une ville chargée d'histoire et de culture. Du labyrinthe de la Médina aux étals colorés du marché, chaque coin de rue révèle une part de l'âme comorienne. Laissez-vous guider par les senteurs d'épices et les sourires des habitants.",
+      "lieu": "Moroni, Grande Comore",
+      "activites": [
+        "🕌 <strong>Visite de la Vieille Mosquée du Vendredi (Ancienne Mosquée de Badjanani)</strong>: Découvrez ce monument historique datant du XVe siècle, emblème de l'islam aux Comores, et admirez son architecture unique.",
+        "🛍️ <strong>Exploration du Marché Volo-Volo</strong>: Plongez dans l'effervescence de ce marché central où se mêlent épices, fruits exotiques, poissons frais et artisanat local. C'est le cœur battant de la vie comorienne."
+      ],
+      "illustration": "jour2_moroni.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Se déplacer à Moroni",
+          "texte": "La Médina de Moroni se découvre à pied. Pour les distances plus longues, les taxis partagés (taxis-brousse) sont économiques et pratiques."
+        },
+        {
+          "symbole": "🌶️",
+          "titre": "Cuisine locale",
+          "texte": "Ne manquez pas de goûter au 'M'tsolola' (bananes vertes au lait de coco et poisson) ou au 'Pilao' (riz épicé à la viande ou au poisson)."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌋",
+      "titre": "Ascension vers le Karthala (partie 1)",
+      "legende": "Aujourd'hui débute l'aventure vers le Mont Karthala, l'un des plus grands volcans actifs du monde. Cette première étape vous mènera à travers des paysages verdoyants et des villages isolés, offrant un aperçu de la vie rurale comorienne. Préparez-vous à une immersion totale dans la nature.",
+      "lieu": "Grande Comore (vers le Karthala)",
+      "activites": [
+        "🚗 <strong>Transfert vers le pied du Karthala et début de la randonnée</strong>: Départ matinal en 4x4 vers le village de Mvouni ou Ntsaoueni, points de départ habituels. Début de la marche à travers la forêt.",
+        "🏕️ <strong>Nuit en campement ou refuge</strong>: Installation pour la nuit dans un campement rudimentaire ou un refuge d'altitude, au cœur de la nature. Profitez du calme et des étoiles."
+      ],
+      "illustration": "jour3_karthala.jpg",
+      "encarts": [
+        {
+          "symbole": "🥾",
+          "titre": "Préparation",
+          "texte": "L'ascension du Karthala est exigeante et dure deux jours. Il est impératif d'être accompagné d'un guide local expérimenté. Prévoyez de bonnes chaussures de marche, de l'eau en quantité suffisante, des vêtements chauds et de pluie."
+        },
+        {
+          "symbole": "🚨",
+          "titre": "Sécurité",
+          "texte": "Vérifiez toujours les conditions météorologiques et l'activité volcanique avant de partir. Le volcan est actif et l'accès peut être restreint pour des raisons de sécurité."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌋",
+      "titre": "Ascension vers le Karthala (partie 2) et retour",
+      "legende": "Le lever du soleil sur les pentes du Karthala est un spectacle inoubliable. Poursuivez l'ascension jusqu'au bord du cratère pour admirer le panorama lunaire et la caldeira impressionnante. Après cette expérience unique, la descente vous ramènera vers la civilisation, avec des souvenirs plein la tête.",
+      "lieu": "Grande Comore (Karthala et retour Moroni)",
+      "activites": [
+        "⛰️ <strong>Ascension finale et exploration du cratère du Karthala</strong>: Atteignez le sommet au lever du jour pour une vue spectaculaire sur l'immense caldeira et, si la visibilité le permet, sur l'océan et les îles voisines. C'est un paysage à couper le souffle.",
+        "⬇️ <strong>Descente du volcan et retour à Moroni</strong>: Entamez la descente et retrouvez votre véhicule pour le retour vers Moroni. Profitez d'une bonne douche et d'un repos bien mérité."
+      ],
+      "illustration": "jour4_karthala_crater.jpg",
+      "encarts": [
+        {
+          "symbole": "💧",
+          "titre": "Hydratation",
+          "texte": "L'effort est intense et le climat peut être humide. Buvez régulièrement de l'eau pour éviter la déshydratation."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photos",
+          "texte": "N'oubliez pas votre appareil photo, mais protégez-le de la poussière volcanique et de l'humidité."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🛩️",
+      "titre": "Vol vers Moheli : L'île sauvage",
+      "legende": "Aujourd'hui, quittez la Grande Comore pour l'île de Moheli, la plus petite et la plus préservée de l'archipel. Un court vol vous transportera dans un autre monde, où la nature règne en maître et le temps semble s'être arrêté. Préparez-vous à une immersion dans une biodiversité exceptionnelle.",
+      "lieu": "Fomboni, Moheli",
+      "activites": [
+        "✈️ <strong>Vol intérieur Moroni (Grande Comore) - Fomboni (Moheli)</strong>: Transfert à l'aéroport de Moroni pour un vol d'environ 30 minutes vers Moheli. Profitez des vues aériennes sur l'archipel.",
+        "🛏️ <strong>Installation à Fomboni et découverte des environs</strong>: Après l'installation à votre hébergement, faites une première balade dans la petite capitale de Moheli. Repérez les lieux pour les jours suivants."
+      ],
+      "illustration": "jour5_moheli_flight.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Vols inter-îles",
+          "texte": "Les vols sont opérés par Int'Air Iles. Il est conseillé de réserver à l'avance, car les places sont limitées. Les horaires peuvent être sujets à modification."
+        },
+        {
+          "symbole": "🎒",
+          "titre": "Bagages",
+          "texte": "Les restrictions de bagages sur les vols intérieurs sont strictes (souvent 15-20 kg en soute). Prévoyez un petit sac pour les affaires essentielles à Moheli."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🐢",
+      "titre": "Parc Marin de Moheli et rencontre avec les tortues",
+      "legende": "Moheli est réputée pour son Parc Marin, un sanctuaire de biodiversité. Cette journée sera dédiée à l'exploration de ses eaux cristallines et à la rencontre inoubliable avec les tortues marines. C'est une expérience magique, respectueuse de l'environnement, qui vous connectera à la faune sous-marine.",
+      "lieu": "Parc Marin de Moheli",
+      "activites": [
+        "🚤 <strong>Excursion en bateau dans le Parc Marin de Moheli</strong>: Partez en pirogue ou en petit bateau pour explorer les îlots et les récifs coralliens du parc. C'est un site exceptionnel pour l'observation marine.",
+        "🐢 <strong>Nage avec les tortues vertes et observation des fonds marins</strong>: Plongez avec masque et tuba pour nager aux côtés des majestueuses tortues vertes. Admirez la richesse des coraux et des poissons tropicaux."
+      ],
+      "illustration": "jour6_moheli_turtles.jpg",
+      "encarts": [
+        {
+          "symbole": "🐠",
+          "titre": "Protection marine",
+          "texte": "Le Parc Marin de Moheli est une zone protégée. Il est crucial de respecter les règles : ne pas toucher les coraux ni les animaux, ne laisser aucun déchet."
+        },
+        {
+          "symbole": "☀️",
+          "titre": "Équipement",
+          "texte": "Prévoyez maillot de bain, crème solaire biodégradable, chapeau, lunettes de soleil et éventuellement votre propre équipement de snorkeling si vous préférez."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🏝️",
+      "titre": "Détente et exploration des îlots",
+      "legende": "Après les émotions de la veille, cette journée offre un moment de pure détente et de découverte des paysages idylliques de Moheli. Explorez les plages isolées, les mangroves mystérieuses et les petits îlots qui parsèment la côte. Laissez-vous bercer par le rythme lent de l'île.",
+      "lieu": "Moheli (plages et îlots)",
+      "activites": [
+        "🏖️ <strong>Journée farniente sur une plage isolée</strong>: Profitez du sable blanc et des eaux turquoise d'une plage comme Nioumachoua. Baignade, lecture ou simple contemplation sont au programme.",
+        "🛶 <strong>Exploration des mangroves en pirogue</strong>: Partez à la découverte des écosystèmes fascinants des mangroves, abritant une faune unique, notamment des oiseaux et des crabes."
+      ],
+      "illustration": "jour7_moheli_beach.jpg",
+      "encarts": [
+        {
+          "symbole": "🍴",
+          "titre": "Repas",
+          "texte": "Certains hébergements peuvent organiser des pique-niques sur les plages isolées. Sinon, prévoyez d'emporter de quoi grignoter et boire."
+        },
+        {
+          "symbole": "🤝",
+          "titre": "Rencontres",
+          "texte": "Les habitants de Moheli sont très accueillants. N'hésitez pas à échanger avec eux, même avec quelques mots de français ou de shikomori."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🌿",
+      "titre": "Randonnée et vie locale à Moheli",
+      "legende": "Cette journée vous emmène à l'intérieur des terres de Moheli, à la rencontre de sa nature luxuriante et de ses villages authentiques. Des sentiers de randonnée vous mèneront à travers des plantations d'ylang-ylang et de vanille, offrant une perspective différente de l'île. Une immersion dans la vie quotidienne des Mohéliens.",
+      "lieu": "Intérieur de Moheli",
+      "activites": [
+        "🚶‍♀️ <strong>Randonnée dans les plantations d'ylang-ylang et de vanille</strong>: Parcourez les sentiers qui serpentent à travers les cultures emblématiques des Comores. Découvrez les secrets de ces plantes aromatiques.",
+        "🏘️ <strong>Visite d'un village traditionnel mohélien</strong>: Rencontrez les habitants, observez leur artisanat et partagez un moment de leur quotidien. Une belle occasion d'échanges culturels."
+      ],
+      "illustration": "jour8_moheli_village.jpg",
+      "encarts": [
+        {
+          "symbole": "👃",
+          "titre": "Parfums de l'île",
+          "texte": "L'ylang-ylang est une fleur dont l'essence est utilisée en parfumerie. Vous sentirez son parfum enivrant dans l'air."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Profitez-en pour acheter de la vanille ou des huiles essentielles d'ylang-ylang directement auprès des producteurs locaux."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🔙",
+      "titre": "Retour en Grande Comore et détente côtière",
+      "legende": "Il est temps de quitter la sérénité de Moheli pour revenir sur la Grande Comore. Après le vol, la journée sera dédiée à la détente et à la découverte des plages du nord de l'île, offrant un cadre idéal pour se ressourcer avant les dernières explorations.",
+      "lieu": "Grande Comore (nord)",
+      "activites": [
+        "✈️ <strong>Vol intérieur Fomboni (Moheli) - Moroni (Grande Comore)</strong>: Retour vers la capitale comorienne par un court vol. Profitez une dernière fois des vues aériennes sur Moheli.",
+        "🏖️ <strong>Détente sur une plage du nord de la Grande Comore (ex: Bouni ou Chindini)</strong>: Installez-vous dans un hôtel ou bungalow en bord de mer et profitez de l'après-midi pour vous baigner et vous relaxer."
+      ],
+      "illustration": "jour9_grande_comore_beach.jpg",
+      "encarts": [
+        {
+          "symbole": "🌅",
+          "titre": "Coucher de soleil",
+          "texte": "Les plages de la Grande Comore offrent des couchers de soleil spectaculaires sur l'océan Indien. Un moment à ne pas manquer."
+        },
+        {
+          "symbole": "🏨",
+          "titre": "Hébergement",
+          "texte": "Choisissez un hébergement un peu plus au nord de Moroni pour profiter de plages plus calmes et moins fréquentées."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "💦",
+      "titre": "Lacs mystérieux et plages de sable noir",
+      "legende": "La Grande Comore regorge de trésors naturels, des lacs aux légendes ancestrales aux plages de sable noir volcanique. Cette journée vous mènera à la découverte de ces sites emblématiques, offrant des paysages contrastés et une immersion dans le folklore local. Une journée entre mythes et réalités géologiques.",
+      "lieu": "Grande Comore (nord et ouest)",
+      "activites": [
+        "💧 <strong>Visite du Lac Salé (Lac Niamawi)</strong>: Découvrez ce lac volcanique aux eaux salées, entouré de falaises et imprégné de légendes locales. Un lieu mystique et photogénique.",
+        "⚫ <strong>Exploration des plages de sable noir volcanique</strong>: Promenez-vous sur ces plages uniques, témoin de l'activité volcanique de l'île. Le contraste avec les eaux turquoise est saisissant."
+      ],
+      "illustration": "jour10_lac_sale.jpg",
+      "encarts": [
+        {
+          "symbole": "📖",
+          "titre": "Légendes locales",
+          "texte": "Le Lac Salé est associé à de nombreuses légendes. Demandez à votre guide de vous raconter l'histoire des djinns qui y habiteraient."
+        },
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Pour explorer ces sites, la location d'un 4x4 avec chauffeur est recommandée pour la flexibilité et la connaissance des routes locales."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🛍️",
+      "titre": "Artisanat, saveurs et derniers souvenirs",
+      "legende": "Pour cette avant-dernière journée, retournez à Moroni pour flâner une dernière fois dans ses rues animées. Profitez-en pour dénicher des souvenirs artisanaux, savourer un dernier repas typiquement comorien et vous imprégner de l'atmosphère unique de la capitale avant votre départ. Une journée pour faire le plein de saveurs et de couleurs.",
+      "lieu": "Moroni, Grande Comore",
+      "activites": [
+        "🎁 <strong>Achats de souvenirs et artisanat local</strong>: Parcourez les petites boutiques de la Médina pour trouver des paréos, des épices, des bijoux en argent ou des objets sculptés en bois.",
+        "🍽️ <strong>Dîner d'adieu dans un restaurant local</strong>: Savourez un dernier repas comorien, peut-être un poisson grillé ou un plat au lait de coco, pour clôturer votre voyage en beauté."
+      ],
+      "illustration": "jour11_souvenirs.jpg",
+      "encarts": [
+        {
+          "symbole": " bargaining",
+          "titre": "Négociation",
+          "texte": "Aux Comores, la négociation est une pratique courante dans les marchés et pour les taxis. Faites-le toujours avec le sourire et respect."
+        },
+        {
+          "symbole": "💳",
+          "titre": "Monnaie",
+          "texte": "La monnaie locale est le Franc Comorien (KMF). Les euros sont parfois acceptés, mais il est préférable d'avoir des KMF. Les distributeurs sont rares."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🛫",
+      "titre": "Départ des Comores",
+      "legende": "C'est le moment de dire au revoir à l'archipel aux parfums. Après un voyage riche en découvertes et en émotions, vous prendrez la route de l'aéroport, la tête pleine de souvenirs inoubliables des Comores. Un dernier regard sur l'océan Indien avant de s'envoler.",
+      "lieu": "Moroni, Grande Comore",
+      "activites": [
+        "🛏️ <strong>Derniers préparatifs et petit-déjeuner</strong>: Profitez d'un dernier petit-déjeuner comorien et préparez vos bagages pour le départ.",
+        "🛫 <strong>Transfert à l'aéroport et vol retour vers Paris</strong>: Transfert vers l'aéroport international Prince Saïd Ibrahim pour votre vol de retour. Bon voyage !"
+      ],
+      "illustration": "jour12_departure.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Prévoyez d'arriver à l'aéroport au moins 3 heures avant votre vol international, les formalités pouvant prendre du temps."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "1000€/pers (vol A/R Paris-Moroni avec escale)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "350€/pers (taxis, 4x4 avec chauffeur, vols inter-îles, transferts)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "480€/pers (40€/jour pour repas variés, eau, quelques extras)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "800€/pers (70€/nuit en moyenne pour 11 nuits en hôtels/bungalows)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "220€/pers (ascension Karthala, Parc Marin Moheli, guides, entrées)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de Mai à Novembre (saison sèche).",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Climat tropical chaud et humide. Températures entre 25 et 30°C. Prévoyez des vêtements légers, amples et respectueux des coutumes locales.",
+      "symbole": "🌡️"
+    },
+    {
+      "titre": "La monnaie est le Franc Comorien (KMF). Les cartes de crédit sont rarement acceptées en dehors de certains grands hôtels. Prévoyez de l'argent liquide.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le français est la langue officielle avec le shikomor (comorien) et l'arabe. La population est majoritairement musulmane, respectez les coutumes locales.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Aucun vaccin obligatoire, mais ceux contre la fièvre jaune (si vous venez d'une zone à risque), l'hépatite A et la typhoïde sont recommandés. Traitement antipaludique conseillé.",
+      "symbole": "💉"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations générales sur les Comores",
+      "titre": "Office National du Tourisme des Comores",
+      "url": "https://www.comores-tourisme.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Vols inter-îles",
+      "titre": "Int'Air Iles",
+      "url": "https://www.intair-iles.com/",
+      "symbole": "✈️"
+    },
+    {
+      "legende": "Conseils aux voyageurs (Ministère des Affaires Étrangères)",
+      "titre": "France Diplomatie",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/pays-zones/comores/",
+      "symbole": "🚨"
+    }
+  ]
+}
